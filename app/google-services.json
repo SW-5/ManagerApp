@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "250387438357",
+    "firebase_url": "https://realkona-4c878.firebaseio.com",
+    "project_id": "realkona-4c878",
+    "storage_bucket": "realkona-4c878.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250387438357:android:88417ebde2bfd1abb7e71c",
+        "android_client_info": {
+          "package_name": "com.example.cafestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250387438357-lahcai84mh3759fq08qo7rsv2ecngdcj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEI46zv4D-IZqAJln679cVTsofvtnourY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250387438357-lahcai84mh3759fq08qo7rsv2ecngdcj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250387438357:android:e21dec0e23ba8c4db7e71c",
+        "android_client_info": {
+          "package_name": "com.example.konaking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250387438357-lahcai84mh3759fq08qo7rsv2ecngdcj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEI46zv4D-IZqAJln679cVTsofvtnourY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250387438357-lahcai84mh3759fq08qo7rsv2ecngdcj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250387438357:android:4f749da583dc94a3b7e71c",
+        "android_client_info": {
+          "package_name": "com.example.storepro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250387438357-lahcai84mh3759fq08qo7rsv2ecngdcj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEI46zv4D-IZqAJln679cVTsofvtnourY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250387438357-lahcai84mh3759fq08qo7rsv2ecngdcj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
